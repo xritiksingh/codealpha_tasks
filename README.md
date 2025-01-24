@@ -7,7 +7,7 @@
 # To Do List
 
 
-#### This web page is hosted [here!](https://github.com/xritiksingh)
+#### This web page is hosted [here!](https://xritiksingh.github.io/codealpha_tasks/)
 
 
 ### *Features*:
